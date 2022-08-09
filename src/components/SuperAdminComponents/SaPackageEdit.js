@@ -1,8 +1,7 @@
 import React from 'react';
-import { packageEdit, packageEditDataDisplay, packageShipped } from '../service/package-service';
+import { packageEdit, packageEditDataDisplay, packageShipped } from '../../service/package-service';
 import { useNavigate, useParams } from "react-router-dom";
-
-import EditPage from '../CSS-styles/EditPage.module.css';
+import EditPage from '../../CSS-styles/EditPage.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

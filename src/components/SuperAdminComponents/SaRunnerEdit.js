@@ -1,7 +1,7 @@
 import React from 'react'
-import { runnerEditDataDisplay, runnerEdit } from '../service/runners-service';
+import { runnerEditDataDisplay, runnerEdit } from '../../service/runners-service';
 import { useNavigate, useParams } from "react-router-dom";
-import EditPage from '../CSS-styles/EditPage.module.css';
+import EditPage from '../../CSS-styles/EditPage.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

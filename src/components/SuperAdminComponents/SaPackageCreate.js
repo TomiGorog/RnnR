@@ -1,7 +1,7 @@
 import React from "react";
-import { generateDate, packageReg } from "../service/package-service";
-import FormStyle from '../CSS-styles/FormStyles.module.css';
-import FeedbackStyle from '../CSS-styles/FeedbackStyles.module.css';
+import { generateDate, packageReg } from "../../service/package-service";
+import FormStyle from '../../CSS-styles/FormStyles.module.css';
+import FeedbackStyle from '../../CSS-styles/FeedbackStyles.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

@@ -1,9 +1,9 @@
 import React from "react";
 import { GoogleMap, Marker, InfoWindow, } from "@react-google-maps/api";
-import MapStyle from '../CSS-styles/MapStyles.module.css'
+import MapStyle from '../../CSS-styles/MapStyles.module.css'
 import { Link } from "react-router-dom";
 import { getDatabase, ref,  onValue } from 'firebase/database';
-import { app } from '../service/firebaseconfig'
+import { app } from '../../service/firebaseconfig'
 
 const containerStyle = {
     width: '100%',

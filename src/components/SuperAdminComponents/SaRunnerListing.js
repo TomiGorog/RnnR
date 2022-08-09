@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { runnerListing } from '../service/runners-service'
-import DashboardStyles from '../CSS-styles/DashboardStyles.module.css'
+import { runnerListing } from '../../service/runners-service'
+import DashboardStyles from '../../CSS-styles/DashboardStyles.module.css'
 
 
 

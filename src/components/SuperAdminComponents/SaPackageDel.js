@@ -1,7 +1,7 @@
 import React from 'react'
 import { useNavigate, useParams, useLocation } from "react-router-dom";
-import { packageDel } from '../service/package-service.js';
-import DeletePage from '../CSS-styles/DeletePage.module.css'
+import { packageDel } from '../../service/package-service.js';
+import DeletePage from '../../CSS-styles/DeletePage.module.css'
 
 function SaPackageDel() {
   const location = useLocation()

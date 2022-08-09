@@ -1,10 +1,10 @@
 import React from 'react';
-import { listPackages } from '../service/package-service.js';
-import { runnerListing } from '../service/runners-service.js';
-import { superadminPackageRunnerPairing } from '../service/sa-service.js';
-import FeedbackStyle from '../CSS-styles/FeedbackStyles.module.css';
-import FormStyles from '../CSS-styles/FormStyles.module.css';
-import Styles from '../CSS-styles/SaPackageToRunner.module.css';
+import { listPackages } from '../../service/package-service.js';
+import { runnerListing } from '../../service/runners-service.js';
+import { superadminPackageRunnerPairing } from '../../service/sa-service.js';
+import FeedbackStyle from '../../CSS-styles/FeedbackStyles.module.css';
+import FormStyles from '../../CSS-styles/FormStyles.module.css';
+import Styles from '../../CSS-styles/SaPackageToRunner.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

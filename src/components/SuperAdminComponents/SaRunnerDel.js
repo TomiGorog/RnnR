@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate, useParams } from "react-router-dom";
-import { runnerDel } from '../service/runners-service';
-import DeletePage from '../CSS-styles/DeletePage.module.css'
+import { runnerDel } from '../../service/runners-service';
+import DeletePage from '../../CSS-styles/DeletePage.module.css'
 
 function SaRunnerDel() {
   let param = useParams()

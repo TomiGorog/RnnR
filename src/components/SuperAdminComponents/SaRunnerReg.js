@@ -1,8 +1,7 @@
 import React from "react";
-import { adminRunnerReg, runnerReg } from "../service/runners-service";
-import FormStyle from '../CSS-styles/FormStyles.module.css';
-import FeedbackStyle from '../CSS-styles/FeedbackStyles.module.css';
-import Feedback from "../Feedback";
+import { adminRunnerReg } from "../../service/runners-service";
+import FormStyle from '../../CSS-styles/FormStyles.module.css';
+import FeedbackStyle from '../../CSS-styles/FeedbackStyles.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

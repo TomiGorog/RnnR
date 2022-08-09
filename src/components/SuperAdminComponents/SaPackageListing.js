@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { listPackages } from "../service/package-service";
-import { superadminPackageShipped } from '../service/sa-service';
-import DashboardStyles from '../CSS-styles/DashboardStyles.module.css';
-import { arrayDataChange } from '../service/runners-service';
+import { listPackages } from "../../service/package-service";
+import { superadminPackageShipped } from '../../service/sa-service';
+import DashboardStyles from '../../CSS-styles/DashboardStyles.module.css';
+import { arrayDataChange } from '../../service/runners-service';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
