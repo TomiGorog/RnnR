@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RnnR/static/css/main.9385b875.css",
+    "main.js": "/RnnR/static/js/main.28c8b37a.js",
+    "static/media/businesswoman.jpg": "/RnnR/static/media/businesswoman.4204169592017be8956e.jpg",
+    "static/media/deliveryman-32ratio.jpg": "/RnnR/static/media/deliveryman-32ratio.e813de89df7b009f4e46.jpg",
+    "static/media/biker-delivery-2.jpg": "/RnnR/static/media/biker-delivery-2.ccfee524adf1ab1d30d4.jpg",
+    "static/media/businessman.jpg": "/RnnR/static/media/businessman.fdee5335a9057e46414f.jpg",
+    "static/media/user-32ratio.jpg": "/RnnR/static/media/user-32ratio.01593e0997dc6407c14b.jpg",
+    "static/media/RegisterPic.jpg": "/RnnR/static/media/RegisterPic.af0f464b455a4e078033.jpg",
+    "static/media/RegisterPicMobile.jpg": "/RnnR/static/media/RegisterPicMobile.0acb6ca5f3e1f217e108.jpg",
+    "static/media/TrackingBackground2.jpg": "/RnnR/static/media/TrackingBackground2.0acb6ca5f3e1f217e108.jpg",
+    "static/media/homepageimg2.jpg": "/RnnR/static/media/homepageimg2.92e6ad36e0ff35bf27a7.jpg",
+    "static/media/newheroimg.jpg": "/RnnR/static/media/newheroimg.2f1601892cdf49acf0cd.jpg",
+    "static/media/user-reg-blur.jpg": "/RnnR/static/media/user-reg-blur.3a2cdf8561b39785ee14.jpg",
+    "static/media/aboutus.jpg": "/RnnR/static/media/aboutus.1e5d2062b7747f9ae693.jpg",
+    "static/media/trash-transparent-hd-png.png": "/RnnR/static/media/trash-transparent-hd-png.616e9596ba9028953687.png",
+    "index.html": "/RnnR/index.html",
+    "main.9385b875.css.map": "/RnnR/static/css/main.9385b875.css.map",
+    "main.28c8b37a.js.map": "/RnnR/static/js/main.28c8b37a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9385b875.css",
+    "static/js/main.28c8b37a.js"
+  ]
+}
