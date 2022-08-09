@@ -1,8 +1,8 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
-import { userReg } from '../service/user-service';
-import { AuthContext } from '../components/AuthContext';
-import FormStyle from '../CSS-styles/FormStyles.module.css';
+import { userReg } from '../../service/user-service';
+import { AuthContext } from '../AuthContext';
+import FormStyle from '../../CSS-styles/FormStyles.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

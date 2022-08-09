@@ -1,7 +1,7 @@
 import React from 'react'
-import { AuthContext } from '../components/AuthContext'
-import { packagesSentByUser, userListPackages } from '../service/user-service'
-import Styles from '../CSS-styles/DesktopDashboardStyle.module.css'
+import { AuthContext } from '../../components/AuthContext'
+import { packagesSentByUser, userListPackages } from '../../service/user-service'
+import Styles from '../../CSS-styles/DesktopDashboardStyle.module.css'
 import { Link } from 'react-router-dom'
 
 

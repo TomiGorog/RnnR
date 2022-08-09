@@ -1,7 +1,7 @@
 import React from 'react'
-import { AuthContext } from '../components/AuthContext'
-import { userListPackages } from '../service/user-service'
-import DashboardStyles from '../CSS-styles/DashboardStyles.module.css'
+import { AuthContext } from '../../components/AuthContext'
+import { userListPackages } from '../../service/user-service'
+import DashboardStyles from '../../CSS-styles/DashboardStyles.module.css'
 
 function UserAsReceiverPackageList() {
     const [receiverPackages, setReceiverPackages] = React.useState([])

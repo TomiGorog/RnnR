@@ -1,8 +1,8 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
-import { AuthContext } from '../components/AuthContext'
-import { userEdit, userEditDataDisplay } from '../service/user-service';
-import FormStyle from '../CSS-styles/FormStyles.module.css';
+import { AuthContext } from '../../components/AuthContext'
+import { userEdit, userEditDataDisplay } from '../../service/user-service';
+import FormStyle from '../../CSS-styles/FormStyles.module.css';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 

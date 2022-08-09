@@ -1,10 +1,10 @@
 import React from 'react'
-import { AuthContext } from '../components/AuthContext'
-import { packagesSentByUser, userListPackages } from '../service/user-service'
-import DashboardStyles from '../CSS-styles/DashboardStyles.module.css'
+import { AuthContext } from '../../components/AuthContext'
+import { packagesSentByUser, userListPackages } from '../../service/user-service'
+import DashboardStyles from '../../CSS-styles/DashboardStyles.module.css'
 import { Link } from 'react-router-dom'
 import UserDashboardDesktop from './UserDashboardDesktop'
-import Style from '../CSS-styles/DesktopDashboardStyle.module.css'
+import Style from '../../CSS-styles/DesktopDashboardStyle.module.css'
 
 
 function UserDashboard() {
